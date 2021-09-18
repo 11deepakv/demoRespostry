@@ -2,6 +2,4 @@ This is version of a project
 I want this to go into commit 
 I am overwriting this file
 this is changed now
-jijdiosjfoioijojo ojoihjiohbuhiu bihiuhi
-git checkout
-This is from master mastere
+this is added at bugfix branch
